@@ -17,8 +17,6 @@ Cryptocurrency refers to cryptographic code used to secure transactions with a d
 
 The platform part of Ethereum makes it much more useful than just a cryptocurrency. With it, you can create any decentralized application (known as a dapp, which works over a peer-to- peer network rather than a centralized client-server network 💻🕸️), so the functionality is only limited by what programs could potentially do and not do, and by consequence, what programmers develop. 👨‍💻
 
-[[https://sustergy.wordpress.com/2017/05/18/why-buy-ether-and-how/200px-p2p-network-svg/|alt=client-server-network]][[https://sustergy.wordpress.com/2017/05/18/why-buy-ether-and-how/200px-p2p-network-svg/|alt=peer-to-peer-network]]
-
 Any asset can be tokenized with Ethereum. The token represents the app while it uses the Ethereum blockchain, but the price of the token is different. Activity that has any economic or governance aspect, conceived or as of yet inconceived, can be done via Ethereum, provided that the right code is written and the necessary hardware is used (such as computers running an Ethereum node, and in some special cases, a measurement device to measure a resource flow for additional verification/auditable purposes, like a meter for electricity ⚡🔌, water 🚰 or gas 🔥; or a waste 🗑️ volume detector). Here's a challenge: keep an eye out for activity that has not been implemented on Ethereum (or could be implemented in a better way) and then:
 <ul>
 	<li>develop a dapp for the idea yourself (after learning <a href="https://solidity.readthedocs.io/en/develop/" target="_blank" rel="noopener">Solidity</a>, if you don't already know it); or</li>

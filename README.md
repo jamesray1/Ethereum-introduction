@@ -1,1 +1,3 @@
-This is not maintained any more here, it is maintained [here](https://github.com/Ethereum-community/Ethereum-introduction/wiki/Ethereum-introduction), for a more community-friendly look.
+This is not maintained any more here, since the license for ethereum/homestead-guide was added and it is being maintained (albeit perhaps with prompting).
+
+A more freely editable alternative is https://github.com/ethereum/wiki/wiki/Ethereum-introduction. Now that Ethereum has moved beyond Homestead with Metropolis the Homestead guide can be considered as a historical document.
